@@ -40,7 +40,7 @@
             <artifactId>opensearch</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
-            <systemPath>${pom.basedir}/lib/opensearch-1.0.0-beta1.jar</systemPath>
+            <systemPath>${pom.basedir}/lib/opensearch-1.0.0.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -48,7 +48,7 @@
             <artifactId>opensearch-core</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
-            <systemPath>${pom.basedir}/lib/opensearch-core-1.0.0-beta1.jar</systemPath>
+            <systemPath>${pom.basedir}/lib/opensearch-core-1.0.0-.jar</systemPath>
         </dependency>
 
         <dependency>
@@ -56,7 +56,7 @@
             <artifactId>opensearch-x-content</artifactId>
             <version>1.0.0</version>
             <scope>system</scope>
-            <systemPath>${pom.basedir}/lib/opensearch-x-content-1.0.0-beta1.jar</systemPath>
+            <systemPath>${pom.basedir}/lib/opensearch-x-content-1.0.0.jar</systemPath>
         </dependency>
 
         <dependency>
