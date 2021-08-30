@@ -37,7 +37,7 @@ Install
 * optional 2 - use opensearch-plugin to install:
 
     ```
-    ./bin/opensearch-plugin install opensearch-analysis-ik-6.3.0.zip
+    ./bin/opensearch-plugin install opensearch-analysis-ik-1.0.0.zip
     ```
 
 2.restart opensearch
@@ -60,6 +60,6 @@ Notice
         <artifactId>opensearch</artifactId>
         <version>1.0.0</version>
         <scope>system</scope>
-        <systemPath>${pom.basedir}/lib/opensearch-1.0.0-beta1.jar</systemPath>
+        <systemPath>${pom.basedir}/lib/opensearch-1.0.0.jar</systemPath>
     </dependency>
     ```
